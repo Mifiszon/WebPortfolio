@@ -31,7 +31,7 @@ This repository contains my **personal portfolio** built using **React**. The we
    ```
 2. Navigate to the project directory:
    ```sh
-   cd portfolio
+   cd my-project
    ```
 3. Install dependencies:
    ```sh
