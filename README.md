@@ -51,7 +51,6 @@ This repository contains my **personal portfolio** built using **React**. The we
 - **React** – Frontend framework
 - **Framer Motion** – Animations and smooth transitions
 - **Styled Components / Tailwind CSS** – Styling
-- **EmailJS** – Contact form integration
 
 ## Author
 
