@@ -14,15 +14,6 @@ This repository contains my **personal portfolio** built using **React**. The we
 
 ## Screenshots
 
-### Home Page  
-![Home Page](path/to/homepage.png)
-
-### Projects Section  
-![Projects](path/to/projects.png)
-
-### Contact Page  
-![Contact](path/to/contact.png)
-
 ## Installation
 
 1. Clone this repository:
