@@ -19,11 +19,11 @@ todo
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Mifiszon/WebPortfolio.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd my-project
+   cd portfolio
    ```
 3. Install dependencies:
    ```sh
@@ -31,11 +31,7 @@ todo
    ```
 4. Start the development server:
    ```sh
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
+   npm run dev
    ```
 
 ## Technologies Used
@@ -46,5 +42,5 @@ todo
 
 ## Author
 
-- **Michał Ogiba**
+**Michał Ogiba** 2024
 
